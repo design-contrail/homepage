@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D.CONTRAIL</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="responsive.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="header-left">
+         <img class="logo" src="icon.ver3.0.png">
+        </div>
+    </header>
+
+
+    <div class="top-wrapper">
+        <div class="heading">
+          <h2>イラスト制作はD.CONTRAILにお任せください。</h2>
+          <p>D.CONTRAILは一人のフリーランスイラストレーターにより運営されています。</p>
+          <p>SNSアイコンをはじめとして、似顔絵やマンガの制作など、幅広く承ります。</p>
+          <p>貴方はどんな作品をお求めですか？</p>
+          <p>じっくりお話をしながらイメージを深め、理想の作品を作り上げます。</p>
+          <p>どうぞお見積もりだけでも、ご気軽にお問い合わせください。</p>
+        </div>
+    </div>
+
+    </div>
+
+    <div class="profile-wrapper">
+      <div class="container">
+        <h1 class="section-title">制作者プロフィール</h1>
+          <div class="profile-container">
+            <img class="profile-picture" src="profile-picture.png"
+                <h5> ヨネタサキ(フリーランスイラストレーター）</h5>
+                <p>幼い頃から絵を描くことが好き。イラスト暦15年以上。デジタル歴は8年。</p>
+                <p>現代漫画風のタッチの美少女イラストが得意。2人の子供を育てながら制作を行う。</p>
+                <p>以前はオーダーメイドイラストの販売やyoutubeコミック制作など不定期に
+        活動していたが、2020年6月子供の保育園入園を機に独立。</p>
+                <p>※2020年11月第3子出産予定。</p>
+                <p>今後webデザイン、グラフィックデザイン方面にも事業拡大予定。</p>
+                <h5>略歴</h5>
+                <p>2016年　武蔵野美術大学通信教育課程入学、地元企業へ就職</p>
+                <p>2018年　武蔵野美術大学通信教育課程中途退学、地元企業退社。第1子誕生、オーダーメイドイラスト制作等行う</p>
+                <p>2019年　第2子誕生、引き続きオーダーメイドイラスト制作等行う</p>
+                <p>2020年　フリーランスイラストレーターD.CONTRAILとして独立</p>  
+         </div>
+        </div>
+      </div>
+
+       
+
+       </div>
+    </div>
+
+
+    <div class="gallary-container">
+      <div class="container">
+         <h1 class="section-title">作品</h1>
+         <img  class="gallary" src="gallary1.png">
+         <img  class="gallary" src="gallary2.png">
+         <img  class="gallary" src="gallary3.png">
+         <img  class="gallary" src="gallary4.png">
+         <img  class="gallary" src="gallary5.png">
+　　　　 
+        <div class="gallary-text">
+           <p>こちらは一例です。twitterにて手掛けた作品を紹介しています。</p>
+           <a href="https://twitter.com/d_contrail" class="see-twitter">ツイッターで見る</a>
+        </div>
+     </div>
+    </div>
+
+    <div class="contact-container">
+      <div class="container">
+        <h1 class="section-title">ご依頼・お問い合わせ</h1>
+        <p>お手数ですが下記サイトからご利用しやすいものをお選び頂きお問い合わせください。</p>
+        <div class="btn-wrapper">
+        <a href="https://twitter.com/d_contrail" class="btn twitter">ツイッター</a>
+        <a href="https://profile.coconala.com/users/2016693" class="btn coconara" >
+        ココナラ</a>
+        <a href="https://www.lancers.jp/profile/d_contrail" class="btn lancers" >ランサーズ</a>
+     </div>
+    </div>
+
+
+    <footer>
+      <div class="container">
+        <div class=" footer-container">
+          <div class="footer-left">
+            <img class="footer-logo" src="icon.ver3.0.png">
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
