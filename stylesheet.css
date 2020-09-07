@@ -1,0 +1,177 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.clear {
+  clear: left;
+}
+
+.container {
+  max-width: 1170px;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  height: 100%;
+  background-image: url(top.ver2.0.png);
+  background-size: cover;
+}
+
+.top-wrapper p {
+  font-size: 20px;
+  letter-spacing: 5px;
+  color: white;
+  text-align: center;
+  height: 100%;
+}
+
+
+header {
+  height: 45px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position :fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+  width: 124px;
+  margin-top:15px;
+}
+
+.header-left {
+  float: left;
+}
+
+
+
+.heading {
+  padding-bottom: 50px;
+  color: white;
+  text-align: center;
+}
+
+.section-title {
+  font-size:40px;
+  text-align: left;
+  border-bottom: 9px solid #dee7ec;
+  padding-bottom: 15px;
+  margin:50px auto;
+}
+
+
+
+.section-title{
+  border-bottom: 2px solid #dee7ec;
+  font-size: 20px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+
+.profile-picture{
+  height:380px;
+  width:380px;
+  margin:0px 20px 0px 0px;
+  float:left;
+}
+
+
+.profile-container p{
+  font-size: 13px;
+  text-align: left;
+  padding-left:50px;
+}
+
+.profile-text h5{
+  text-align:left;
+  font-size:15px;
+}
+
+
+.gallary-container{
+  height:600px;
+}
+
+.gallary{
+  width:15%;
+  margin-right:50px;
+  margin-top:80px;
+}
+
+
+.see-twitter{
+  padding: 8px 24px;
+  opacity: 0.8;
+  margin-right:80px;
+  margin-top:50px;
+  margin-bottom:100px;
+  background-color:#55acee;
+  color:white;
+
+}
+
+.btn{
+  padding: 8px 24px;
+  display: inline-block;
+  opacity: 0.8;
+  margin-right:80px;
+  margin-top:30px;
+  margin-bottom:100px;
+}
+
+
+.twitter{
+  background-color:#55acee;
+  color:white;
+}
+
+.coconara{
+ background-color:white;
+ border:2px solid #aacc3b;
+ color:black;
+}
+
+.lancers{
+   background-color:#285294;
+   color:white;
+}
+
+
+.footer-logo{
+ margin-top:20px;
+ width: 124px;
+ float:left;
+ margin-left:20px;
+}
+
+footer {
+  margin-top:50px;
+  height: 200px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9)
+
+}
+
+.footer-right a{
+  color:white;
+  padding: 0 20px;
+  font-size:15px;
+  float:right;
+  margin-top:15px;
+}
+
